@@ -1,13 +1,10 @@
 # Привет, меня зовут Вадим!
 
 ### Обо мне:
-
-Привет, меня зовут Вадим.
-
 Я джуниор QA-инженер с горящими глазами. Ищу удаленную работу!
 
 
-- :zap: Являюсь студентом SkyPro - QA Engineer.
+- :zap: Я прошел обучение в SkyPro - QA Engineer.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Sparkling_9-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Sparkling_9) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lubnin9@gmail.com)
 
